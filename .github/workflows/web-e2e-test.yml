@@ -18,7 +18,7 @@ on:
 
 jobs:
   test:
-    if: github.repository == 'Expensify/react-native-live-markdown'
+    if: github.repository == 'QichenZhu/react-native-live-markdown'
     runs-on: ubuntu-latest
 
     concurrency:
